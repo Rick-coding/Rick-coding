@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rick-coding
 - 👀 I’m interested in gaining coding experience and contributing to projects
 - 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 📫 You can contact me at nelsonrick195@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I enjoy gaming in my free time
 
